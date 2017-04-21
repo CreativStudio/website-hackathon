@@ -13,6 +13,7 @@ Faire une base de données et permettre aux visiteurs de suggérer des thèmes/t
 
 ## Idées technos
 
-Chatbot Facebook
-Chatbot Discord -> Concrètement: un bot discord qui regarde le statut d'un repo git et qui poste les mises à jour sur le discord (pull request, issues...)
+- Chatbot Facebook
+- Chatbot Discord
+  - Concrètement: un bot discord qui regarde le statut d'un repo git et qui poste les mises à jour sur le discord (pull request, issues...)
 
